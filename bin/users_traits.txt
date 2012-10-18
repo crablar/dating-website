@@ -1,0 +1,37 @@
+#shania
+testosterone_level .8
+estrogen_level 9.2
+leg_length 6.2
+elocution 3.1
+semitic_affect 8.2
+-
+#celeste
+testosterone_level 9.5
+estrogen_level .5
+dinosaur_fandom 1.02
+religiosity 4.1
+fear_of_dying 4.2
+average_teaspoons_salt_per_egg_preferred_in_omelettes 9.2
+-
+#monique
+testosterone_level 7.8
+estrogen_level 2.2
+ability_to_juggle 2.22
+swiftness_of_coagulation 6.4
+typing_speed 8.29
+knowledge_of_black_scholes 4.3
+-
+#ronald
+testosterone_level 9.5
+estrogen_level .5
+dinosaur_fandom 9.2
+elocution 7.12
+-
+#joseph
+testosterone_level 9.5
+estrogen_level .5
+fear_of_dying 4.2
+average_teaspoons_salt_per_egg_preferred_in_omelettes 6.4
+semitic_affect 9.2
+-
+eof
